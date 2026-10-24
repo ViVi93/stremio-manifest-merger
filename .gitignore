@@ -1,0 +1,10 @@
+/private/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/audit/
+/deploy/
+*.log
